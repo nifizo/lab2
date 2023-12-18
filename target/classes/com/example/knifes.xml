@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<knifes>
+    <knife id='1'>
+        <type>knife</type>
+        <handy>1</handy>
+        <origin>USA</origin>
+        <visual>
+            <length>180</length>
+            <width>15</width>
+            <material>steel</material>
+            <handle_material>plastic</handle_material>
+            <bloodstream>false</bloodstream>
+        </visual>
+        <value>false</value>
+    </knife>
+    <knife id='2'>
+        <type>sword</type>
+        <handy>2</handy>
+        <origin>France</origin>
+        <visual>
+            <length>750</length>
+            <width>50</width>
+            <material>steel</material>
+            <handle_material>metal</handle_material>
+            <bloodstream>true</bloodstream>
+        </visual>
+        <value>true</value>
+    </knife>
+    <knife id='3'>
+        <type>knife</type>
+        <handy>1</handy>
+        <origin>Germany</origin>
+        <visual>
+            <length>150</length>
+            <width>18</width>
+            <material>steel</material>
+            <handle_material>wood</handle_material>
+            <bloodstream>false</bloodstream>
+        </visual>
+        <value>false</value>
+    </knife>
+</knifes>
